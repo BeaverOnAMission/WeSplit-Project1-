@@ -2,7 +2,11 @@ Bill-splitting app, "WESPLIT," where users input the bill amount, select tip per
 
 Featuring: 
 dark-themed UI,
+
 focus handling,
+
 "Done" button to dismiss the keyboard,
+
 local currency,
+
 pickers.
